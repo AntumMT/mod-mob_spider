@@ -19,7 +19,9 @@ Spider mod extracted from *[mobs_monster][]* @ [Git commit 1561ec1][ver.mobs_mon
 ---
 ### **Licensing:**
 
-[MIT](license.txt)
+- [MIT](license.txt)
+- Textures:
+  - CC BY-SA 3.0
 
 
 [Minetest]: http://www.minetest.net/
